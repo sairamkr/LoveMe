@@ -6,10 +6,7 @@ function setup() {
   createCanvas(1920,1080);
   squareSize = random(10,350)
   lineWidth = random (2,10)
-  framerate
-
-  
-  
+    
 }
 
 function draw() {
