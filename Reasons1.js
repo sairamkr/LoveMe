@@ -1,0 +1,22 @@
+let Reasons = [
+  "When I'm with you it feels like I'm sent 10 years back and I'm in school with my best friend goofing around.",
+  "I love the small mole on top of your left eyebrow (Hoping I did not get this wrong).",
+  "I love how you are always there for the people you care about. Also care more about yourself PENGUIN.",
+  "I love how you make puppy eyes when you get sad. Makes me go right even if I need have want to go left.",
+  "I love that you stand up for the things you really believe in.",
+  "I know I keep telling you to lower your voice but sometimes when I'm alone and it's super super silent I wish I could hear your loud sassy voice, yelling at me or calling out for something.",
+  "I love how cute you look when you're eating — you're like a little child and how happy you get when you get good food.",
+  "I love how expressive you are about every little thing.",
+  "I love how much you love your parents and how you dote on them and their relationship.",
+  "I love how you go out of your way to make cute little stuff for me, like the bookmark and the gloves you started making.",
+  "I love how you always order the same thing when we go to KFC.",
+  "I love the random noises you make. I don't know what's the secret sauce about those but it's just so phonetically pleasing. That's why I keep wanting you to repeat them.",
+  "I love it when you're being extremely sassy. It's so adorable — it's like a harsh refreshing flavour in everyday vanilla life.",
+  "I love the way you smell, like all the time, and how you stock up on your deodorant. I think it's cute.",
+  "I love how excited you get when you have some gossip that you want to share — and your eyes light up.",
+  "I love you for being as funny as you are. As much as I'd like to not admit that you're funnier. Ty for making life a lil less serious.",
+  "I love how you fall asleep when I start reading out to you.",
+  "I love the way you tell stories — it's so dramatic and exaggerated.",
+  "I love how you look when you're working and your eyebrows go slightly up and you're focusing in.",
+  "I love the way you look when you fall asleep — you just look so adorable and squishy squishy."
+];
